@@ -1,0 +1,157 @@
+******_Google's_Datacenters_on_Punch_Cards_******
+If all digital data were stored on punch cards, how big would Google's data
+warehouse be?
+James Zetlen
+[/imgs/a/63/google_punchcard.png]
+Google almost certainly has more data storage capacity than any other
+organization on Earth.
+Google is very secretive about its operations, so it's hard to say for sure.
+There are only a handful of organizations who might plausibly have more storage
+capacity or a larger server infrastructure. Here's my short list of the top
+contenders:
+    * NSA
+    * NRO
+    * NGIP
+    * CIA
+    * Schlumberger
+    * Tencent
+    * Chevron
+Honorable mentions:
+    * Amazon (They're huge, but probably not as big as Google.)
+    * Facebook (They're on the right scale and growing fast, but still playing
+      catch-up.)
+    * Microsoft (They have a million servers,[1]Data Center Knowledge:
+      [Ballmer: Microsoft has 1 Million Servers although no one seems sure
+      why.)
+Let's take a closer look at Google's computing platform.
+Follow the money
+We'll start by following the money. Google's aggregate capital
+expendituresâspending on building stuff[2]I'm excluding the cost of an
+extremely expensive building they bought in New York.---adds up to somewhere
+over $12 billion dollars.[3]Data Center Knowledge: Google's_Data_Center
+Building_Boom_Continues:_$1.6_Billion_Investment_in_3_Months Their biggest data
+centers cost half a billion to a billion dollars, so they can't have more than
+20 or so of those.
+On their website,[4]Data_center_locations Google acknowledges that they have
+datacenters in the following locations:
+   1. Berkeley County, South Carolina
+   2. Council Bluffs, Iowa
+   3. Atlanta, Georgia
+   4. Mayes County, Oklahoma
+   5. Lenoir, North Carolina
+   6. The Dalles, Oregon
+   7. Hong Kong
+   8. Singapore
+   9. Taiwan
+  10. Hamina, Finland
+  11. St Ghislain, Belgium
+  12. Dublin, Ireland
+  13. Quilicura, Chile
+In addition, they appear to operate a number of other large datacenters
+(sometimes through subsidiary corporations), including:
+   1. Eemshaven, Netherlands
+   2. Groningen, Netherlands
+   3. Budapest, Hungary
+   4. WrocÅaw, Poland
+   5. Reston, Virginia
+   6. Additional sites near Atlanta, Georgia
+They also operate equipment at dozens to hundreds of smaller locations around
+the world.
+Follow the power
+To figure out how many servers Google is running, we can look at their
+electricity consumption. Unfortunately, we can't just sneak up to a datacenter
+and read the meter.[5]Actually, wait, can we? Somebody should try that.
+Instead, we have to do some digging.
+The company disclosed that in 2010 they consumed an average of 258 megawatts of
+power.[6]Google_used_2,259,998_MWh_of_electricity_in_2010, which translates to
+an average of 258 megawatts. How many computers can they run with that?
+We know that their datacenters are quite efficient, only spending 10-20% of
+their power on cooling and other overhead.[7]Google: Efficiency:_How_we_do_it
+To get an idea of how much power each server uses, we can look at their
+&quot;container data center&quot; concept from 2005. It's not clear whether
+they actually use these containers in practice---it may just have been a now-
+outdated experiment---but it gives an idea of what they consider(ed) reasonable
+power consumption. The answer: 215 watts per server.
+Judging from that number, in 2010, they were operating around a million
+servers.
+They've grown a lot since then. By the end of 2013, the total amount of money
+they've pumped into their datacenters will be three or four times what it was
+as of 2010. They've contracted to buy over three hundred megawatts of power at
+just three sites,[8]Google: Purchasing_clean_energy which is more than they
+used for all their operations in 2010.
+Based on datacenter power usage and spending estimates, my guess would be that
+Google is currently running---or will soon be running---between 1.8 and 2.4
+million servers.
+But what do these &quot;servers&quot; actually represent? Google could be
+experimenting in all kinds of wild ways, running boards with 100 cores or 100
+attached disks. If we assume that each server has a couple[9]Anywhere_from_2_to
+5 of 2 TB disks attached, we come up with close to 10 exabytes[10]As a
+refresher, the order is: kilo, mega, giga, tera, peta, exa, zetta, yotta. An
+exabyte is a million terabytes. of active storage attached to running clusters.
+10 Exabytes
+The commercial hard disk industry ships about 8 exabytes worth of drives
+annually.[12]IDC: Worldwide_External_Disk_Storage_Systems_Factory_Revenue
+Declines_for_the_Second_Consecutive_Quarter Those numbers don't necessarily
+include companies like Google, but in any case, it seems likely that Google is
+a large piece of the global hard drive market.
+To make things worse, given the huge number of drives they manage, Google has a
+hard drive die every few minutes.[11]Eduardo Pinheiro, Wolf-Dietrich Weber and
+Luiz Andre Barroso, [Failure Trends in a Large Disk Drive Population This isn't
+actually all that expensive a problem, in the grand scheme of things---they
+just get good at replacing drives---but it's weird to think that when a Googler
+runs a piece of code, they know that by the time it finishes executing, one of
+the machines it was running on will probably have suffered a drive failure.
+Google tape storage
+Of course, that only covers storage attached to running servers. What about
+&quot;cold&quot; storage? Who knows how much data Google---or anyone else---has
+stored in basement archives?
+In a 2011 phone interview with Paul Mah of SMB Tech, Simon Anderson of Tandberg
+Data let slip[13]SMB Tech: Is_Tape_Still_Relevant_for_SMBs? that Google is the
+world's biggest single consumer of magnetic tape cartridges, purchasing 200,000
+per year. Assuming they've stepped up their purchasing since then as they've
+expanded, this could add up to another few exabytes of tape archives.
+Putting it all together
+Let's assume Google has a storage capacity of 15 exabytes, or
+15,000,000,000,000,000,000 bytes.
+A punch card can hold about 80 characters, and a box of cards holds 2000 cards:
+[/imgs/a/63/google_160kb.png]
+15 exabytes of punch cards would be enough to cover my home region, New
+England, to a depth of about 4.5 kilometers. That's three times deeper than the
+ice sheets that covered the region during the last advance of the glaciers:
+[/imgs/a/63/google_ice.png]
+That seems like a lot.
+However, it's nothing compared to the ridiculous claims by some news reports
+about the NSA datacenter in Utah.
+NSA datacenter
+The NSA is building a datacenter in Utah. Media reports claimed that it could
+hold up to a yottabyte of data,[14]CNET: NSA_to_store_yottabytes_in_Utah_data
+centre which is patently absurd.
+Later reports changed their minds, suggesting that the facility could only hold
+on the order of 3-12 exabytes.[15]Forbes: Blueprints_Of_NSA's_Ridiculously
+Expensive_Data_Center_In_Utah_Suggest_It_Holds_Less_Info_Than_Thought We also
+know the facility uses about 65 megawatts of power,[16]Salt-Lake City Tribune:
+NSA_Bluffdale_Center_won't_gobble_up_Utah's_power_supply which is about
+what a large Google datacenter consumes.
+A few headlines, rather than going with one estimate or the other, announced
+that the facility could hold &quot;between an exabyte and a yottabyte&quot; of
+data[17]Dailykos: Utah_Data_Center_stores_data_between_1_exabyte_and_1
+yottabyte ... which is a little like saying &quot;eyewitnesses report that the
+snake was between 1 millimeter and 1 kilometer long.&quot;
+Uncovering further Google secrets
+There are a lot of tricks for digging up information about Google's operations.
+Ironically, many of them involve using Google itself---from Googling for job
+postings in strange cities to using image search to find leaked cell camera
+photos of datacenter visits.
+However, the best trick for locating secret Google facilities might be the one
+revealed by ex-Googler talentlessclown on reddit:[18]reddit: Can_r/Australia
+help_find_Google's_Sydney_data_center?_Seems_like_a_bit_of_a_mystery...
+     The easiest way to find manned Google data centres is to ask taxi
+     drivers and pizza delivery people.
+There's something pleasing about that. Google has created what might be the
+most sophisticated information-gathering apparatus in the history of the Earth
+... and the only people with information about them are the pizza delivery
+drivers.
+Who watches the watchers?
+[/imgs/a/63/google_watchers.png]
+Apparently, Domino's.
+

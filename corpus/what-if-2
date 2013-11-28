@@ -1,0 +1,41 @@
+******_SAT_Guessing_******
+What if everyone who took the SAT guessed on every multiple-choice question?
+How many perfect scores would there be?
+---Rob Balder
+None.
+The SAT is a standardized test given to high school students (similar to the
+ACT). The scoring is such that under certain circumstances, guessing an answer
+can be a good strategy. But what if you guessed on everything?
+Not all of the SAT is multiple-choice, so let's focus on the multiple choice
+questions to keep things simple. We'll assume everyone gets the essay
+questions and fill-in-the-number sections correct.
+There are 44 multiple-choice questions in the math (quantitative) section, 67
+in the critical reading (qualitative) section, and 47 in the newfangled writing
+section. Each question has five options, so a random guess has a 20% chance of
+being right:
+[/imgs/a/2/01.png]
+Although we all know the answer is always B.
+The probability of getting all 158 questions is: \[\frac{1}{5^{44}} * \frac{1}
+{5^{67}} * \frac{1}{5^{47}} \approx \frac{1}{2.7 * 10^{110}}\]
+(That's one in twenty-seven quinquatrigintillion.)
+If all four million 17-year-olds all took the SAT, and they all guessed
+randomly, it's a statistical certainty that there would be no perfect scores
+on any of the three sections.
+How certain is it? Well, if they each used a computer to take the test a
+million times each day, and continued this every day for five billion
+years---until the Sun expanded to a red giant and the Earth was charred to a
+cinder---the chance of any of them ever getting a perfect score on just the
+math section would be about 0.0001%.
+How unlikely is that? Each year something like 500 Americans are struck by
+lightning[1]Cooper, Mary Ann, MD. &quot;Disability,_Not_Death_is_the_Main
+Problem_with_Lightning_Injury&quot;[2]http://www.nws.noaa.gov/om/hazstats/
+light08.pdf (based on an average of 45 lightning deaths and a 9-10% fatality
+rate). This suggests that the odds of any one American being hit in a given
+year are about one in in 700,000 (although probability can be tricky).
+This means that the odds of acing the SAT by guessing are worse than the odds
+of every living ex-President and every member of the main cast of Firefly all
+being independently struck by lightning ... on the same day.
+[/imgs/a/2/03.png]
+(Everyone survives but Alan Tudyk and Ron Glass)
+To everyone taking the SAT this year, good luck---but it won't be enough.
+

@@ -1,0 +1,60 @@
+******_Yoda_******
+How much Force power can Yoda output?
+---Ryan Finnie
+[/imgs/a/3/01.png]
+I'm going to---of course---ignore the prequels.
+There's a great SMBC comic exploring the geopolitical consequences of having
+Superman turn a crank to provide an unlimited source of energy. We could
+imagine Yoda using the Force to run a similar generator. But how much power
+could he really supply?
+Yoda's greatest display of raw power in the original trilogy came when he
+lifted Luke's X-Wing from the swamp. As far as physically moving objects
+around goes, this was easily the biggest expenditure of energy through the
+Force we saw from anyone in the trilogy.
+The energy it takes to lift an object to height h is equal to the object's
+mass times the force of gravity times the height it's lifted. The X-Wing
+scene lets us use this to put a lower limit on Yoda's peak power output.
+First we need to know how heavy the ship was. The X-Wing's mass has never
+been canonically established, but its length has---12.5 meters. An F-22 is 19
+meters long and weighs 19,700 kg, so scaling down from this gives an estimate
+for the X-Wing of about 12,000 lbs (5 metric tons).
+[/imgs/a/3/02.png]
+\[m_{x} = m_{f22} \times \left(\frac{12.5}{19}\right)^{3} \approx 5,600\mathrm
+{kg}\]
+Next, we need to know how fast it was rising. I went over footage of the scene
+and timed the X-Wing's rate of ascent as it was emerging from the water.
+[/imgs/a/3/04.png]
+The front landing strut rises out of the water in about three and a half
+seconds, and I estimated the strut to be 1.4 meters long (based on a scene in A
+New Hope where a crew member squeezes past it), which tells us the X-Wing was
+rising at 0.39 m/s.
+Lastly, we need to know the strength of gravity on Dagobah. Here, I figure
+I'm stuck, because while sci-fi fans are obsessive, it's not like there's
+gonna be a catalog of minor geophysical characteristics for every planet
+visited in Star Wars. Right?
+Nope. I've underestimated the fandom. Wookieepeedia has just such a catalog,
+and informs us that the surface gravity on Dagobah is 0.9g. Combining this with
+the X-Wing mass and lift rate gives us our peak power output:
+\[\frac{5,600 \mathrm{kg} \times 0.9\mathrm{g} \times 1.4 \text{ meters}}{3.6
+\text{ seconds}} = 19.2\mathrm{kW}\]
+That's enough to power a block of suburban homes. It's also equal to about
+25 horsepower, which is about the power of the motor in the electric-model
+Smart Car.
+[/imgs/a/3/06.png]
+At current electricity prices, Yoda would be worth about $2/hour.
+But telekinesis is just one type of Force power. What about that lightning the
+Emperor used to zap Luke? The physical nature of it is never made clear, but
+Tesla coils that produce similar_displays draw something like 10
+kilowatts---which would put the Emperor roughly on par with Yoda. (Those Tesla
+coils use lots of very short pulses. If the Emperor is sustaining a continuous
+arc, as in an arc welder, the power could easily be in the megawatts.)
+What about Luke? I examined the scene where he used his nascent Force powers to
+yank his lightsaber out of the snow. The numbers are harder to estimate here,
+but I went through frame-by-frame and came up with an estimate of 400 watts for
+his peak output. This is a fraction of Yoda's 19kW, and was sustained for only
+a fraction of a second.
+So Yoda sounds like our best bet as an energy source. But with world
+electricity consumption pushing 2 terawatts, it would take a hundred million
+Yodas to meet our demands. All things considered, switching to Yoda Power
+probably isn't worth the trouble---though it would definitely be green.
+[/imgs/a/3/yoda_07.png]

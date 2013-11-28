@@ -1,0 +1,55 @@
+******_Three_Wise_Men_******
+The story of the three wise men got me wondering: What if you did walk towards
+a star at a fixed speed? Â What path would you trace on the Earth? Does it
+converge to a fixed cycle?
+---N. Murdoch
+If the wise men leave Jerusalem and walk toward the star Sirius, day and night,
+even when it's below the horizon, this is the path they follow over the
+surface:
+[/imgs/a/25/magi_sirius_walk.png]
+If we allow a little theological confusion and assume the wise men can walk on
+water, they'll eventually wind up going in an endless circle, 30 kilometers
+in diameter, around the South Pole.
+But let's be a little more realistic; the wise men are hardly going to walk
+toward the star while it's behind the Earth. Let's assume that they only
+walk toward the star when it's in the sky and the Sun has set.
+In that case, their path actually takes them through Bethlehem:
+[/imgs/a/25/magi_sirius_realistic_close.png]
+If they don't stop there, after a few years, they wind up orbiting Botswana:
+[/imgs/a/25/magi_sirius_realistic.png]
+These paths are calculated using, among other things, PyEphem, which provides
+tools for determining the historical positions of astronomical objects.
+It's tricky to figure out exactly what the wise men would have been
+following. There aren't very many good_astronomical_candidatesÂ for the Star
+of Bethlehem (Chinese records don't show a supernova at the right time, and
+none of the other obvious candidates check out) and, furthermore, there's a
+lot of historical and theological debate over Jesus's date of birth ("4
+BC" seems to be the closest thing to a historical consensus date). These
+charts are all calculated for a somewhat arbitrary departure date from
+Jerusalem of December 25th, 1 AD; different departure days would lead to
+different paths, but the overall picture would be the same.
+What if the wise men followed a planet?
+Planets move against the background of stars, so the paths they produce are
+more complex. Here's where the Wise Men would've gone if they followed
+Venus:
+[/imgs/a/25/magi_venus.png]
+And here's their path for Mars:
+[/imgs/a/25/magi_mars.png]
+If the three wise men had a hovercar that could move at highway speed over land
+and water (it's in the gnostic gospels somewhere) and decided to follow
+Venus, they'd take a particularly weird path:
+[/imgs/a/25/magi_venus_car.png]
+At one point, they wind up near the North Pole in October. There, the Sun and
+Venus spend months near the horizon, rising and setting, nudging the Magi into
+a month-long spiral around the pole, a chaotic strange Magi attractor around
+the North Pole which some argue provides the theological foundation for the
+story of Santa Claus [citation needed].
+Sadly, the three wise men probably weren't following Venus. It's one of the
+most familiar objects in the night sky, and as the late Sir Patrick Moore
+observed, if the wise men mistook it for a new star, they couldn't have been
+very wise.
+But maybe they're wiser than Sir Patrick gives them credit for. After all, if
+you pick a random star in the sky, point at the horizon, and predict that
+there's a baby about to be born in that direction, statistics---and birth
+rates---are on your side.
+

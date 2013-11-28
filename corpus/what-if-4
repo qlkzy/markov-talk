@@ -1,0 +1,106 @@
+******_A_Mole_of_Moles_******
+What would happen if you were to gather a mole (unit of measurement) of moles
+(the small furry critter) in one place?
+---Sean Rice
+Things get a bit gruesome.
+First, some definitions. A mole is a unit. It's not a typical unit, though.
+It's really just a number---like "dozen" or "billion." If you have a
+mole of something, it means you have 602,214,129,000,000,000,000,000 of them
+(usually written \( 6.022\times10^{23} \)). It's such a big number because
+it's used for counting numbers of molecules, which there are a lot of.
+[/imgs/a/4/moles_too_many.png]
+&quot;One mole&quot; is close to the number of atoms in a gram of hydrogen.
+It's also, by chance, a decent ballpark guess for the number of grains of
+sand on Earth.
+A mole is also a type of burrowing mammal. There are a handful of types of
+moles, and some of them are truly_horrifying.
+[/imgs/a/4/moles_star_nosed.png]
+So what would a mole of moles---602,214,129,000,000,000,000,000 animals---look
+like?
+First, let's start with wild ballpark approximations. This is an example of
+what might go through my head before I even pick up a calculator, when I'm
+just trying to get a sense of the quantities - the kind of calculation where
+10, 1, and 0.1 are all close enough that we can consider them equal:
+I can pick up a mole (animal) and throw it.[citation needed] Anything I can
+throw weighs one pound. One pound is one kilogram. The number
+602,214,129,000,000,000,000,000 looks about twice as long as a trillion, which
+means it's about a trillion trillion. I happen to remember that a trillion
+trillion kilograms is how much a planet weighs.
+[/imgs/a/4/moles_number_length.png]
+... if anyone asks, I did not tell you it was ok to do math like this.
+That's enough to tell us that we're talking about pile of moles on the
+scale of planets. It's a pretty rough estimate, though, since it could be off
+by a factor of thousands in either direction.
+Let's get some better numbers.
+An eastern mole (Scalopus aquaticus) weighs about 75 grams, which means a mole
+of moles weighs
+\[ (6.022\times10^{23})\times75\mathrm{g}\approx4.52\times10^{22}\mathrm{kg}\]
+That's a little over half the mass of our moon.
+Mammals are largely water. A kilogram of water takes up a liter of volume, so
+if the moles weigh \( 4.52\times10^{22} \) kilograms, they take up about \
+( 4.52\times10^{22} \) liters of volume. You might notice that we're ignoring
+the pockets of space between the moles. In a moment, you'll see why.
+The cube root of \( 4.52\times10^{22} \) liters is 3,562 kilometers, which
+means we're talking about a sphere with a radius of 2,210 kilometers, or a
+cube 2,213 miles on each edge. (That's a neat coincidence I've never
+noticed before---a cubic mile happens to be almost exactly \( \frac{4}{3}\pi \)
+cubic kilometers, so a sphere with a radius of X kilometers has the same volume
+as a cube that's X miles on each side.)
+If these moles were released onto the Earth's surface, they'd fill it up to
+80 kilometers deep---just about to the (former) edge of space:
+[/imgs/a/4/moles_layers.png]
+This smothering ocean of high-pressure meat would wipe out most life on the
+planet, which could---to reddit's horror---threaten the integrity of the DNS
+system. So doing this on Earth is definitely not an option.
+Instead, let's gather the moles in interplanetary space. Gravitational
+attraction would pull them into a sphere. Meat doesn't compress very well, so
+it would only undergo a little bit of gravitational contraction, and we'd end
+up with a mole planet a bit larger than the moon.
+[/imgs/a/4/moles_scale.png]
+The moles would have a surface gravity about one-sixteenth as strong as
+Earth's---similar to that of Pluto. The planet would start off uniformly
+lukewarm---probably a bit over room temperature---and the gravitational
+contraction would heat the deep interior by a handful of degrees.
+But this is where it gets weird.
+The mole planet is now a giant sphere of meat. It has a lot of latent energy
+(there are enough calories in the mole planet to support the Earth's current
+population for 30 billion years). Normally, when organic matter decomposes, it
+releases much of that energy as heat. But throughout the majority of the
+planet's interior, the pressure is over a hundred megapascals, which is
+enough to kill all bacteria and sterilize the mole remains---leaving no
+microorganisms to break down the mole tissues.
+Closer to the surface, where the pressure is lower, there's another obstacle
+to decomposition---the interior of a mole planet is low in oxygen. Without
+oxygen, the usual decomposition doesn't happen, and the only bacteria that
+can break down the moles are those which don't require oxygen. While
+inefficient, this anaerobic decomposition can unlock quite a bit of heat. If
+continued unchecked, it would heat the planet to a boil.
+But the decomposition is self-limiting. Few bacteria can survive at
+temperatures above about 60âÂ°C, so as the temperature goes up, the bacteria
+die off, and the decomposition slows. Throughout the planet, the mole bodies
+gradually break down into kerogen, a mush of organic matter which would---if
+the planet were hotter---eventually form oil.
+The outer surface of the planet radiates heat into space and freezes. Because
+the moles form a literal fur coat, when frozen it insulates the interior of the
+planet and slows the loss of heat to space. However, the flow of heat in the
+liquid interior is dominated by convection. Plumes of hot meat and bubbles of
+trapped gases like methane---along with the air from the lungs of the deceased
+moles---periodically rise through the mole crust and erupt volcanically from
+the surface, a geyser of death blasting mole bodies free of the planet.
+Eventually, after centuries or millennia of turmoil, the planet calms and cools
+enough that it begins to freeze all the way through. The deep interior is under
+such high pressure that as it cools, the water crystallizes out into exotic
+forms_of_ice such as ice III and ice V, and eventually ice II and ice IX (no
+relation).
+All told, this is a pretty bleak picture. Let's try an alternate approach.
+I don't have any reliable numbers for global mole population (or small mammal
+biomass in general), but we'll take a shot in the dark and estimate that
+there are at least a few dozen mice, rats, voles, and other small mammals for
+every human.
+There might be a_billion_habitable_planets in our galaxy. If we colonized them,
+we'd certainly bring mice and rats with us. If just one in a hundred were
+populated with small mammals in numbers similar to Earth's, after a few
+million years---not long, in evolutionary time---the total number which have
+ever lived would surpass Avogadro's number.
+If you want a mole of moles, build a spaceship.
+[/imgs/a/4/moles_rocket.png]

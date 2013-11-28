@@ -1,0 +1,38 @@
+******_Supersonic_Stereo_******
+What if you somehow managed to make a stereo travel at twice the speed of
+sound, would it sound backwards to someone who was just casually sitting
+somewhere as it flies by?
+---Tim Currie
+Yes.
+Technically, anyway. It would be pretty hard to hear.
+The basic idea is pretty straightforward. The stereo is going faster than its
+own sound, so it will reach you first, followed by the sound it emitted one
+second ago, followed by the sound it emitted two seconds ago, and so forth.
+[/imgs/a/37/stereo_waves.png]
+The problem is that the stereo is moving at Mach 2, which means that two
+seconds ago, it was over a kilometer away. It's hard to hear music from that
+distance, particularly when your ears were just hit by (a) a sonic boom, and
+(b) pieces of a rapidly disintegrating stereo.
+Wind speeds of Mach 2 would messily disassemble most consumer electronics. The
+force of the wind on the body of the stereo is roughly comparable to that of a
+dozen people standing on it:
+[/imgs/a/37/stereo_standing.png]
+An ordinary stereo wouldn't make it, but one with some kind of ruggedized
+high-strength casing might be able to survive.
+If we put together a durable, heavy-duty stereo and launch it on a ballistic
+trajectory, it will only be traveling at supersonic speeds for the first 150
+meters or so. This means that the target will hear a maximum of about a third
+of a second of reversed music.
+This phenomenon is actually confirmed in the 2008 paper Reproduction_of_Virtual
+Sound_Sources_Moving_at_Supersonic_Speeds_in_Wave_Field_Synthesis, which says
+that the sound wave field "contains a component carrying a time-reversed
+version of the source's input signal".
+The sonic boom would be the first thing the target would hear. It would be
+followed by several sounds played over one another, including both reversed
+music (rising slightly in pitch as it fades out) and forward-playing music
+(which would play at half speed and an octave too low), followed by the crash
+of a stereo demolishing your neighbor's shed.
+Which means that if you're playing one of those albums containing secret
+demonic messages, the result will be the strangest listening experience of your
+life:
+[/imgs/a/37/stereo_message.png]

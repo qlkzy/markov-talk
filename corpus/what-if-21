@@ -1,0 +1,113 @@
+******_Machine_Gun_Jetpack_******
+Is it possible to build a jetpack using downward firing machine guns?
+---Rob B
+I was sort of surprised to find that the answer was yes! But to really do it
+right, you'll want to talk to the Russians.
+The principle here is pretty simple. If you fire a bullet forward, the recoil
+pushes you back. So if you fire downward, the recoil should push you up.
+The first question we have to answer is "can a gun even lift its own
+weight?" If a machine gun weighs ten pounds but only produces eight pounds of
+recoil when firing, it won't be able to lift itself off the ground, let alone
+lift itself plus a person.
+In the engineering world, the ratio between a craft's thrust and the weight
+is called, appropriately, thrust-to-weight ratio. If it's less than 1, the
+vehicle can't lift off. The Saturn V had a takeoff thrust-to-weight ratio of
+about 1.5.
+Despite growing up in the South, I'm not really a firearms expert, so to help
+answer this question, I got in touch with an acquaintence in Texas. (Judging by
+the amount of ammunition they had lying around their house ready to measure and
+weigh for me, Texas has apparently become some kind of Mad Max-esque post-
+apocalyptic war zone.)
+[/imgs/a/21/jetpack_saturn_v.png]
+As it turns out, the AK-47 has a thrust-to-weight ratio of around two. This
+means if you stood it on end and somehow taped down the trigger (Note: Please,
+PLEASE do not try this at home) it would rise into the air while firing.
+This isn't true of all machine guns. The M60, for example, probably can't
+produce enough recoil to lift itself off the ground.
+The amount of thrust created by a rocket (or firing machine gun) depends on (1)
+how much mass it's throwing out behind it, and (2) how fast it's throwing
+it. Thrust is the product of these two amounts:
+\[\text{Thrust}=\text{Mass ejection rate}\times\text{Speed of ejection}\]
+If an AK-47 fires ten 8g bullets per second at 715 meters per second, its
+thrust is:
+\[10\tfrac{\text{bullets}}{\text{second}}\times8\tfrac{\text{grams}}{\text
+{bullet}}\times715\tfrac{\text{meters}}{\text{second}}=57.2\text
+{ N}\approx13\text{ pounds of force}\]
+Since the AK-47 weighs only 10.5 pounds when loaded, it will be able to take
+off and accelerate upward.
+In practice, the actual thrust turns out to be up to around 30% higher. The
+reason for this is that the gun isn't just spitting out bullets---it's also
+spitting out hot gas and explosive debris. The amount of extra force this adds
+varies by gun and cartridge.
+The overall efficiency also depends on whether you eject the shell casings out
+of the vehicle or carry them with you. I asked my Texan acquaintences if they
+could weigh some shell casings for my calculations, but for a while they
+couldn't find a scale anywhere in the house. I helpfully suggested that given
+the size of their arsenal, really they just need to find someone else who owned
+a scale. (Ideally someone with less ammo.)
+So what does all this mean for our jetpack?
+Well, the AK-47 can take off, but it clearly doesn't have the thrust to spare
+to lift anything weighing much more than a squirrel.
+[/imgs/a/21/jetpack_squirrel.png]
+We can try multiple guns. If you fire two guns at the ground, it creates twice
+the thrust. If each gun can lift five pounds more than their own weight, two
+can lift ten.
+At this point, it's clear where we're headed:
+[/imgs/a/21/jetpack_500.png]
+If we add enough rifles, the weight of the passenger becomes irrelevant. it's
+spread over so many of them that they don't notice. As the number of rifles
+increases, since it's effectively many individual rifles flying in parallel,
+the craft's thrust-to-weight ratio approaches that of a single, unburdened
+rifle:
+[/imgs/a/21/jetpack_twr.png]
+But there's a problem: Ammunition.
+An AK-47 magazine holds 30 rounds. At ten per second, we'll get a measly
+three seconds of acceleration. We can improve this with a larger magazine---but
+only up to a point.
+It turns out there's no advantage to carrying more than about 250 rounds of
+ammunition. The reason for this is a fundamental and central problem in rocket
+science: Fuel makes you heavier.
+Each bullet weighs 8 grams, and the cartridge (the "whole_bullet") weighs
+over 16 grams. If we add more than about 250 rounds, the AK-47 is too heavy to
+take off.
+This suggests our optimal craft comprises a large number of AK-47s (a minimum
+of 25 but ideally at least 300) carrying 250 rounds of ammunition each. The
+largest versions of this craft could accelerate upward to vertical speeds
+approaching 100 meters per second, climbing over half a kilometer into the air.
+(If you want to work through the math on that in more detail, there's a good
+primer here.)
+So we've answered Rob's question. With enough machine guns, you could fly.
+But our 500xAK-47 rig is clearly not a practical jetpack. Can we do better?
+My Texas friends suggested a series of machine guns, and I ran the numbers on
+each one. Some did pretty well; the MG-42, a heavier machine gun, had a
+marginally higher thrust-to-weight ratio than the AK-47.
+Then we went bigger.
+The GAU-8_AvengerÂ fires up to sixty one-pound bullets a second.Â It produces
+almost five tons of recoil force, which is crazy considering that it's
+mounted in a type of plane (the A-10_"Warthog") whose two engines produce
+only four tons of thrust each. If you put two of them in one aircraft, and
+fired both guns forward while opening up the throttle, the guns would win and
+you'd accelerate backward.
+To put it another way: If I mounted a GAU-8 on my car, put the car in neutral,
+and started firing backward from a standstill, I would be breaking the
+interstate speed limit in less than three seconds.
+[/imgs/a/21/jetpack_speeding.png]
+As good as this gun would be as a rocket pack engine, the Russians built one
+that would work even better. The Gryazev-Shipunov_GSh-6-30Â weighs half as much
+as the GAU-8 and has an even higher fire rate. Its thrust-to-weight ratio
+approaches 40, which means if you pointed one at the ground and fired, not only
+would it take off in a rapidly expanding spray of deadly metal fragments, but
+you would experience 40 gees of acceleration.
+This is way too much. In fact, even when it was firmly mounted in an aircraft,
+the acceleration was_a_problem:
+     [T]he recoil ... still had a tendency to inflict damage on the
+     aircraft. The rate of fire was reduced to 4,000 rounds a minute but
+     it didn't help much. Landing lights almost always broke after firing
+     ... Firing more than about 30 rounds in a burst was asking for
+     trouble from overheating ...
+But if you somehow braced the human rider, made the craft strong enough to
+survive the acceleration, wrapped it in an aerodynamic shell, and made sure it
+was adequately cooled ...
+[/imgs/a/21/jetpack_mountains.png]
+... with a GSH-6-30, you could jump mountains.
+

@@ -1,0 +1,48 @@
+******_FedEx_Bandwidth_******
+When - if ever - will the bandwidth of the Internet surpass that of FedEx?
+---Johan Ãbrink
+     Never underestimate the bandwidth of a station wagon full of tapes
+     hurtling down the highway.
+     âAndrew Tanenbaum, 1981
+If you want to transfer a few hundred gigabytes of data, it's generally
+faster to FedEx a hard drive than to send the files over the internet. This
+isn't a new idea---it's often dubbed SneakerNet---and it's how Google
+transfers_large_amounts_of_data_internally.
+But will it always be faster?
+Cisco estimatesÂ that total internet traffic currently averages 167 terabits
+per second. FedEx has a fleet of 654 aircraft with a lift_capacity_of_26.5
+million_pounds_daily. A solid-state laptop drive weighs about_78_gramsÂ and can
+hold up to a terabyte.
+That means FedEx is capable of transferring 150 exabytes of data per day, or 14
+petabits per second---almost a hundred times the current throughput of the
+internet.
+[/imgs/a/31/fedex_drives.png]
+If you don't care about cost, this ten-kilogram shoebox can hold a lot of
+internet
+We can improve the data density even further by using MicroSD cards:
+[/imgs/a/31/fedex_milk.png]
+Those thumbnail-sized flakes have a storage density of up to 160 terabytes per
+kilogram, which means a FedEx fleet loaded with MicroSD cards could transfer
+about 177 petabits per second, or two zettabytes per day---a thousand times the
+internet's current traffic level. (The infrastructure would be
+interesting---Google would need to build huge warehouses to hold a_massive
+card-processing_operation.)
+Cisco estimates internet traffic is growing at about 29% annually. At that
+rate, we'd hit the FedEx point in 2040. Of course, the amount of data we can
+fit on a drive will have gone up by then, too. The only way to actually reach
+the FedEx point is if transfer rates grow much faster than storage rates. In an
+intuitive sense, this seems unlikely, since storage and transfer are
+fundamentally linked---all that data is coming from somewhere and going
+somewhere---but there's no way to Â predict usage patterns for sure.
+While FedEx is big enough to keep up with the next few decades of actual usage,
+there's no technological reason we can't build a connection that beats them
+on bandwidth. There are experimental fiber clusters that can handle_over_a
+petabit_per_second. A cluster of 200 of those would beat FedEx.
+If you recruited the entire US_freight_industryÂ to move SD cards for you, the
+throughput would be on the order of 500 exabits---half a zettabit---per second.
+To match that transfer rate digitally, you'd need take half a million of
+those petabit cables.
+So the bottom line is that for raw bandwidth, the internet will probably never
+beat SneakerNet. Of course, the virtually infinite bandwidth would come at the
+cost of 80,000,000-millisecond ping times.
+[/imgs/a/31/fedex_delivery.png]

@@ -1,0 +1,85 @@
+******_Stirring_Tea_******
+I was absentmindedly stirring a cup of hot tea, when I got to thinking,
+&quot;aren't I actually adding kinetic energy into this cup?&quot; I know that
+stirring does help to cool down the tea, but what if I were to stir it faster?
+Would I be able to boil a cup of water by stirring?
+Will Evans
+No.
+The basic idea makes sense. Temperature is just kinetic energy. When you stir
+tea, you're adding kinetic energy to it, and that energy goes somewhere. Since
+the tea doesn't do anything dramatic like rise into the air or emit light, the
+energy must be turning to heat.
+[/imgs/a/71/tea_light.png]
+The reason you don't notice the heat is that you're not adding very much of it.
+It takes a huge amount of energy to heat water; by volume, it has a greater
+heat capacity than any other common substance.[1]Hydrogen and helium have a
+higher heat capacity by mass, but they're diffuse gasses. The only other common
+substance with a higher heat capacity by mass is ammonia. All three of these
+lose to water when measured by volume.
+If you want to heat water from room temperature to nearly boiling in two
+minutes, you'll need a lot of power:
+\[1\text{ cup}\times\text{Water heat capacity}\times\tfrac{100^\circ\rm{C}-
+20^\circ\rm{C}}{2\text{ minutes}}=700\text{ watts}\]
+(Note: Pushing almost-boiling water to boiling takes a large burst of extra
+energy on top of what's required to heat it to the boiling point---this is
+called the enthalpy_of_vaporization.)
+Our formula tells us that if we want to make a cup of hot water in two minutes,
+we'll need a 700-watt power source. A typical microwave uses 700 to 1100 watts,
+and it takes about two minutes to heat a mug of water to make tea. It's nice
+when things work out![2]If they didn't, we'd just blame
+&quot;inefficiency&quot; or &quot;vortices&quot;.
+700 watts for two minutes is an awful lot of energy. When water falls from the
+top of Niagara Falls, it gains kinetic energy, which is converted to heat at
+the bottom. But even after falling that great distance, the water only heats up
+by a fraction of a degree.[3]\(\text{Height of Niagra Falls}\times\frac{\text
+{Acceleration of gravity}}{\text{Specific heat of water}}=0.12^\circ\text{C}\)
+To boil a cup of water, you'd have to drop it from higher than the top of the
+atmosphere.
+[/imgs/a/71/tea_jump.png]
+How does stirring compare to microwaving?
+Based on figures from industrial mixer engineering reports,[4]Brawn Mixer,
+Inc., Principles_of_Fluid_Mixing (2003) I estimate that vigorously stirring a
+cup of tea adds heat at a rate of about a ten-millionth of a watt. That's
+completely negligible.[5]Tea loses heat a much higher rate than this. See: Ben
+Harden, Tea_temperature_vs._Time_graph
+The physical effect of stirring is actually a little complicated.[6]In some
+situations, mixing liquids can actually help keep them warm. Hot water rises,
+and when a body of water is large and still enough (like the ocean) a warm
+layer forms on the surface. This warm layer radiates heat much more quickly
+than a cold layer would. If you disrupt this hot layer by mixing the water, the
+rate of heat loss decreases.
+
+This is why hurricanes tend to lose strength if they stop moving
+forward---their waves churn up cold water from the depths, cutting them off
+from the thin layer of hot surface water that was their main source of energy.
+Most of the heat is carried away from teacups by the air convecting over them,
+and so they cool from the top down. Stirring brings fresh hot water from the
+depths, so it can help this process. But there are other things going
+on---stirring disturbs the air, and it heats the walls of the mug. It's hard to
+be sure what's really going on without data.
+Fortunately, we have the internet. StackExchange user drhodes measured_the_rate
+of_teacup_cooling from stirring vs. not stirring vs. repeatedly dipping a spoon
+into the cup vs. lifting it. Helpfully, drhodes posted both high-resolution
+graphs and the raw data itself, which is more than you can say for a lot of
+journal articles.
+The conclusion: It doesn't really matter whether you stir, dip, or do nothing;
+the tea cools at about the same rate (although dipping the spoon in and out of
+the tea cooled it slightly faster).
+Which brings us back to the original question: Could you boil tea if you just
+stirred it hard enough?
+No.
+The first problem is power. 700 watts is about a horsepower, so if you want to
+boil tea in two minutes, you'll need at least one horse to stir it hard enough.
+[/imgs/a/71/tea_horse.png]
+You can reduce the power requirement by heating the tea over a longer period of
+time, but if you reduce it too far the tea will be cooling as fast as you're
+heating it.
+Even if you could churn the spoon hard enough---tens of thousands of stirs per
+second---fluid dynamics would get in the way. At those high speeds, the tea
+would cavitate; a vacuum would form along the path of the spoon and stirring
+would become ineffective.
+And if you stir hard enough that your tea cavitates, its surface area will
+increase very rapidly, and it will cool to room temperature in seconds:
+[/imgs/a/71/tea_stir.png]
+No matter how hard you stir your tea, it's not going to get any warmer.
+

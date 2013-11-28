@@ -1,0 +1,194 @@
+******_Expanding_Earth_******
+How long would it take for people to notice their weight gain if the mean
+radius of the world expanded by 1cm every second? (Assuming the average
+composition of rock were maintained.)
+Dennis O'Donnell
+The Earth is not, currently, expanding.[1]Yes, I have a citation for this.
+
+&quot;In conclusion, no statistically significant present expansion rate is
+detected by our study within the current measurement uncertainty of 0.2 mm
+yrâ1.&quot;
+
+Wu, X., X. Collilieux, Z. Altamimi, B. L. A. Vermeersen, R. S. Gross, and I.
+Fukumori (2011), Accuracy_of_the_International_Terrestrial_Reference_Frame
+origin_and_Earth_expansion, Geophys. Res. Lett., 38, L13304, doi:10.1029/
+2011GL047450.
+People have long suggested that it might be. Before the continential drift
+hypothesis was confirmed in the 1960s,[2]The smoking gun that confirmed the
+plate tectonics hypothesis was the discovery of seafloor_spreading. The way
+seafloor spreading and magnetic_pole_reversal neatly confirmed each other is
+one of my favorite examples of scientific discovery at work. people had noticed
+that the continents fit together. Various ideas were put forward to explain
+this, including the idea that the ocean basins were rifts that opened in the
+surface of a previously-smooth Earth as it expanded. This theory was never very
+widespread,[3]It turns out it's kind of dumb. although it still periodically
+makes the rounds on YouTube.
+To avoid the problem of rifts in the ground, let's imagine all the matter in
+the Earth, from the crust to the core, starts expanding uniformly. To avoid
+another Drain_the_Oceans scenario, we'll assume the ocean expands, too.[4]As it
+turns out, the ocean is expanding, since it's getting warmer. This is
+(currently) the main way global warming is raising the sea level. All human
+structures will stay.
+t = 1 second:
+[/imgs/a/67/expanding_jolt.png]
+As the Earth started expanding, you'd feel a slight jolt, and might even lose
+your balance for a moment. This would be very brief. Since you're moving
+steadily upward at 1 cm/s, you woudn't feel any kind of ongoing acceleration.
+For the rest of the day, you wouldn't notice much of anything.
+t = 1 day:
+After the first day, the Earth would have expanded by 864 meters.
+[/imgs/a/67/expanding_day.png]
+Gravity would take a long time to increase. If you weighed 70 kilograms when
+the expansion started, you'd weigh 70.01 at the end of the day.
+What about our roads and bridges? Eventually, they would have to break up,
+right?
+Not as quickly as you might think. Here's a puzzle I once heard:
+     Imagine you tied a rope tightly around the Earth, so it was hugging
+     the surface all the way around.
+[/imgs/a/67/expanding_rope.png]
+     Now imagine you wanted to raise the rope one meter off the ground.
+[/imgs/a/67/expanding_lift.png]
+     How much extra length will you need to add to the rope?
+Though it may seem like you'd need miles of rope, the answer is 6.28 meters.
+Circumference is proportional to radius, so if you increase radius by 1 unit,
+you increase circumference by 2π units.
+Stretching a 40,000-kilometer line an extra 6.28 meters is pretty negligible.
+Even after a day, the extra 5.4 kilometers would be handled easily by virtually
+all structures. Concrete expands and contracts by more than that every day.
+[5]Lawrence Grybosky, Thermal_Expansion_and_Contraction
+After the initial jolt, one of the first effects you'd notice would be that
+your GPS would stop working. The satellites would stay in roughly the same
+orbits, but the delicate timing that the GPS system is based on would be
+completely ruined within hours. GPS timing is incredibly precise; of all the
+problems in engineering, it's one of the only ones in which engineers have been
+forced to include both special and general relativity in their calculations.
+Most other clocks would keep working fine. However, if you have a very precise
+pendulum clock, you might notice something odd---by the end of the day, it
+would be three seconds ahead of where it should be.
+t = 1 month:
+After a month, the Earth would have expanded by 26 kilometers---an increase of
+0.4%---and its mass would have increased by 1.2%. Surface gravity would only
+have gone up by 0.4%, rather than 1.2%, since surface gravity is proportional
+to radius.[6]Mass is proportional to radius cubed, and gravity is proportional
+to mass times inverse square of radius, so radius3 / radius2 = radius.
+You might notice the difference in weight on a scale, but it's not a big deal.
+Gravity varies by this much between different cities already. This is a good
+thing to keep in mind if you buy a digital scale. If your scale has a precision
+of more than two decimal places, you need to calibrate it with a test
+weight---the force of gravity at the scale factory isn't necessarily the same
+as the force of gravity at your house.
+While you might not notice the increased gravity just yet, you'd notice the
+expansion. After a month, you'd see a lot of cracks opening up in long concrete
+structures and the failure of elevated roads and old bridges. Most buildings
+would probably be ok, although those anchored firmly into bedrock might start
+to behave unpredictably.[7]Just what you want in a skyscraper.
+At this point, astronauts on the ISS would start getting worried. Not only
+would the ground (and atmosphere) be rising toward them, but the increased
+gravity would also cause their orbit to slowly shrink. They'd need to evacuate
+quickly; they'd have at most a few months before the station reentered the
+atmosphere and deorbited.
+t = 1 year:
+After a year, gravity would be 5% stronger. You'd probably notice the weight
+gain, and you'd definitely notice the failure of roads, bridges, power lines,
+satellites, and undersea cables. Your pendulum clock would now be ahead by five
+days.
+What about the atmosphere?
+If the atmosphere isn't growing like the land and water are, air pressure would
+start dropping. This is due to a combination of factors. As gravity increases,
+then air gets heavier. But since that air is spread out over a larger area, the
+overall effect would be decreasing air pressure.
+On the other hand, if the atmosphere is also expanding, surface air pressure
+would rise. After years had passed, the top of Mt. Everest would no longer be
+in the &quot;death zone&quot;.[8]See What-If_#64. On the other hand, since
+you'd be heavier---and the mountain would be taller---climbing would be more
+work.
+t = 5 years:
+After five years, gravity would be 25% stronger. If you weighed 70 kg when the
+expansion started, you'd weigh 88 kg now.
+Most of our infrastructure would have collapsed. The cause of the collapse
+would be the expanding ground below them, not the increased gravity.
+Surprisingly, most skyscrapers would hold up fine under much higher gravity.
+[9]Although I wouldn't trust the elevators. For most of them, the limiting
+factor isn't weight, but wind.
+t = 10 years:
+After 10 years, gravity would be 50% stronger. In the scenario where the
+atmosphere isn't expanding, the air would become thin enough to be difficult to
+breathe even at sea level. In the other scenario, we'd be ok for a little while
+longer.
+t = 40 years:
+After 40 years, Earth's surface gravity would have tripled.[10]Over decades,
+the force of gravity would grow slightly faster than you'd expect, since the
+material in the Earth would compress under its own weight. The pressure inside
+planets is roughly_proportional_to_the_square_of_their_surface_area, so the
+Earth's core would be squeezed tightly. At this point, even the strongest
+humans would only be able to walk with great difficulty. Breathing would be
+difficult. Trees would collapse. Crops wouldn't stand up under their own
+weight. Virtually every mountainside would see massive landslides as material
+sought out a shallower angle_of_repose.
+Geologic activity would also accelerate. Most of the Earth's heat is provided
+by radioactive decay of minerals in the crust and mantle,[12]Although some
+radioactive elements, like uranium, are heavy, they get squeezed out of the
+lower layers because their atoms don't mesh well with the rock lattices at
+those depths. For more, see this_chapter and this_article. and more Earth means
+more heat. Since the volume expands faster than the surface area, the overall
+heat flowing out per square meter will increase.
+It's not actually enough to substantially warm the planet---Earth's surface
+temperature is dominated by the atmosphere and the Sun---but it would lead to
+more volcanoes, more earthquakes, and faster tectonic movement. This would be
+similar to the situation on Earth billions of years ago, when we had more
+radioactive material and thus a hotter mantle.
+More active plate tectonics might be good for life. Plate tectonics play a key
+role in stabilizing the Earth's climate, and planets smaller than Earth (like
+Mars) don't have enough internal heat to sustain long-term geologic activity. A
+larger planet would allow for more geologic activity, which is why some
+scientists think that exoplanets slightly larger than Earth (&quot;super-
+Earths&quot;) could be more friendly to life than Earth-sized ones.
+[11]Sasselov, Dimitar D.. The life of super-Earths: how the hunt for alien
+worlds and artificial cells will revolutionize life on our planet. New York:
+Basic Books, 2012.
+t = 100 years:
+After 100 years, we'd be experiencing over six gees of gravity. Not only would
+we be unable to move around to find food, but our hearts would be unable to
+pump blood to our brains. Only small insects (and sea animals) would be
+physically able to move around. Perhaps humans could survive in specially-built
+controlled-pressure domes, moving around by keeping most of our bodies
+submerged in water.
+[/imgs/a/67/expanding_water.png]
+Breathing in this situation would be difficult. It's hard to suck in air
+against the weight of the water, which is why snorkels can only work when your
+lungs are near the surface.
+Outside of low-pressure domes, the air would become unbreathable for a
+different reason. At somewhere around 6 atmospheres, even ordinary air becomes
+toxic.[13]R.M. Franz and P.C. Schutte, Barometric_hazards_within_the_context_of
+deep-level_mining, The Journal of The South African Institute of Mining and
+Metallurgy Even if we'd managed to survive all the other problems, by 100
+years, we'd be dead from oxygen_toxicity. Toxicity aside, breathing dense air
+is difficult simply because it's heavy.
+Black hole?
+When would the Earth eventually become a black hole?
+It's hard to answer that, because the premise of the question is that the
+radius is steadily expanding while the density stays the same---whereas a black
+hole, the density increases.
+The dynamics of really huge rocky planets aren't often analyzed, since there's
+no obvious way that they could form; anything that large will have enough
+gravity to gather hydrogen and helium during planet formation and become a gas
+giant.
+At some point, our growing Earth would reach the point where adding more mass
+causes it to contract, rather than expand. After this point, it would collapse
+into something like a sputtering white dwarf or neutron star, and then---if its
+mass kept increasing---eventually become a black hole.
+But before it gets that far ...
+t = 300 years:
+It's a shame humans wouldn't live this long, because at this point, something
+really neat would happen.
+As the Earth grows, the Moon would, like all our satellites, gradually spiral
+inward.[14]Plummer, H. C., Note_on_the_motion_about_an_attracting_centre_of
+slowly_increasing_mass, Monthly Notices of the Royal Astronomical Society, Vol.
+66, p.83 After several centuries, it would be close enough to the swollen Earth
+that the tidal forces between Earth and the Moon would be stronger than the
+gravitational forces holding the Moon together.
+When the Moon passed this boundary---called the Roche_limit---it would
+gradually break apart ...
+[/imgs/a/67/expanding_rings.png]
+... and Earth would, for a short time, have rings.
+

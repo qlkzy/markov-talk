@@ -1,0 +1,84 @@
+******_Signs_of_Life_******
+If you could teleport to a random place of the surface of the Earth, what are
+the odds that you'll see signs of intelligent life?
+Borislav Stanimirov
+The surface of the Earth is about 70% water, so you'll usually plop down into
+the ocean.
+[/imgs/a/60/sample_sploosh.png]
+But even there, you could find signs of human habitation.
+But first, we'll start with ...
+The big stuff
+In one way or another, humans have altered every square meter of this planet.
+But we'll start with the obvious: Roads, houses, and fields.
+To get an idea of how often Borislav would stumble across such obvious
+structures, I loaded up a sample of random geographic coordinates[1]Generating
+uniform points on a sphere is tricky---you can't just pick a random latitude
+and a random longitude. The solution is to either do_a_bunch_of_math or use
+something like GeoMidpoint's Random_Point_Generator. in Google Earth.
+Most of the points were over open ocean, out of sight of any land. Once you get
+away from the major ports, the odds of having a ship in view are not that good,
+so I continued sampling until I had 50 land coordinates.
+Based on Google Earth imagery, Borislav would definitely see clear signs of
+human activity in about 10 of those 50 points. Six of them were actually in
+cultivated fields (in Poland, Argentina, Brazil, Pakistan, and Kazakhstan).
+Another point was in a highway cut along the coast of French Guiana. One was in
+a small town deep in the Amazon, and another on a road in the Australian
+outback.
+In another five or ten cases, Borislav might be able to see something if you
+looked carefully or walked a short distance; it's hard to be sure without
+actually visiting the points to find out what you can see. Included in this
+list of marginal points was the only US location on the list, a spot in the
+woods outside in Keachi, Louisiana---a town which, during the American Civil
+War, saw the creation of a contingent of 'Highlanders' complete with
+government-issued kilts and plaids.
+Most of the points were in the middle of deserts, barren mountains, tropical
+jungles. or---in one case---central Antarctica. All in all, it seems like the
+odds of landing somewhere with human artifacts in view are about one in four to
+one in three---and that artifact will usually be either a field of crops or a
+dirt road.
+Look down
+If you find yourself on a beach, check the sand. Sand all over the world
+contains tiny grains of plastic, mostly from industrial spillage into the
+oceans.[2]Patricia L. Corcorana, Mark C. Biesinger, Meriem Griï¬, Plastics_and
+beaches:_A_degrading_relationship. Even if you land in the water, you might
+still be able to spot bits of plastic debris; the ocean is covered with them,
+which leads to heartbreaking_consequences.
+Sample the air
+If you have a CO2 meter---and you know Earth's atmospheric history---you can
+also detect the changes we've made to the air around you. Over the past hundred
+years, we've rapidly increased CO2 concentrations from less than 300 parts per
+million to over 400---higher than they've been in millions of years. It's not
+proof of technological activity, but it's a pretty good tip-off that something
+weird is going on.
+More sensitive testing could detect human-generated aerosols, or---by testing
+the soils---detect the alterations we've made to the global nitrogen cycle.
+[3]'Although carbon dioxide may get more press, "the nitrogen cycle has been
+altered more than any other basic element cycle," says John Aber, vice
+president for research and public service at the University of New Hampshire.'
+Scott Fields, Global_Nitrogen:_Cycling_out_of_Control
+Look up
+Depending on the humidity, you may have a good chance of seeing jet contrails.
+Under the right conditions, these water vapor trails from planes can linger for
+hours. In many_parts_of_the_world, they're a common sight. However, in areas
+with fewer flight paths---central Africa, South America, and Australia, in
+particular---they might be less easy to spot.
+[/imgs/a/60/sample_chemtrails.png]
+But even if you find yourself in the middle of the Algerian_desert, the
+Peruvian_Amazon, or the Arctic_cliffs_of_Transfiguration_Island, there's an
+easy way to see evidence of intelligent life:
+Wait for nightfall.[4]And then go crazy and burn down your civilization when
+you see the stars for the first time.
+At any given time, there are hundreds of satellites in the sky. Most of them
+are too faint to see, but if you're in an area without much light pollution,
+and you look carefully enough, there's virtually always a satellite visible.
+Their rapid motion across the sky and various highly inclined orbits make them
+unlikely to be anything but artificial.
+It's often said that the Great Wall of China is the only human artifact that
+can be seen from space. This is wrong.
+But in my opinion, the real problem with this factoid isn't that it's
+wrong---it's that it overlooks a much cooler point. The Great Wall of China may
+not be the only artifact on Earth that you can see from a satellite ... but our
+satellites are the only human artifacts that you can see from everywhere on
+Earth.
+Want to see signs of intelligent life? Just look up.
+[/imgs/a/60/sample_stars.png]

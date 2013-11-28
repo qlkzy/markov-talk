@@ -3,11 +3,13 @@
 Markov Chain Text Generator
 
 Usage:
-    markov [-s seed] [-n order] [--] [<file>...]
+    markov [-s seed] [-n order] [-l length] [-r random] [--] [<file>...]
 
 Options:
     -s <s> Seed for the random number generator
     -n <n> Number of previous words to consider when choosing the next word [default: 1]
+    -l <l> Length of the desired output, in words
+    -r <r> Probability (between 0 and 1) that a random token with no connection will be chosen
 
 """
 
@@ -16,6 +18,8 @@ import fileinput
 import sys
 from docopt import docopt
 from time import time
+from itertools import islice
+from time import sleep
 
 class Example:
 
@@ -29,51 +33,68 @@ class Example:
         n = min(len(seq), len(self.pat))
         return cmp(seq[-n:], self.pat[-n:]) == 0
 
-def succ(seq, examples):
-    cands = [e.succ for e in examples if e.suffix_of(seq)]
-    if not cands:
-        sys.stderr.write("restart\n")
-        cands = [e.succ for e in examples]
-    return random.choice(cands)
+class Chain:
 
-def gen(seq, examples):
-    seq = list(seq)
-    seq.append(succ(seq, examples))
-    return seq
+    def __init__(self, n, seed, randomness):
+        self.n = n
+        self.seed = seed
+        self.randomness = randomness
 
-def train(n, training_data):
-    window = []
-    examples = []
-    for line in training_data:
-        line = line.rstrip()
-        examples.append(Example(window, line))
-        window.append(line)
-        if len(window) > n:
-            window.pop(0)
-    return examples
- 
+    def train(self, training_data):
+        self.examples = []
+        window = []
+        for tok in training_data:
+            tok = tok
+            self.examples.append(Example(window, tok))
+            window.append(tok)
+            if len(window) > self.n:
+                window.pop(0)
+    
+    def __iter__(self):
+        self.seq = []
+        return self
 
+    def next(self):
+        cands = [e.succ for e in self.examples if e.suffix_of(self.seq)]
+        if (not cands) or (random.random() < self.randomness):
+            cands = [e.succ for e in self.examples]
+        succ = random.choice(cands)
+        self.seq.append(succ)
+        return succ
 
 arguments = docopt(__doc__)
 
-order = arguments["-n"]
+try:
+    order = int(arguments["-n"])
+except:
+    order = 1
 
 try:
     seed = int(arguments["-s"])
 except:
     seed = int(time())
 
+try:
+    length = int(arguments["-l"])
+except:
+    length = 100
+
+try:
+    randomness = float(arguments["-r"])
+except:
+    randomness = 0
+
 random.seed(seed)
 
-print seed
+sys.stderr.write(str(seed) + "\n")
 
-training_data = fileinput.input(arguments["<file>"])
-examples = train(order, training_data)
-print "trained"
+chain = Chain(order, seed, randomness)
+chain.train(fileinput.input(arguments["<file>"]))
 
-out = []
-for i in range(0, 100):
-    print i
-    out = gen(out, examples)
+x = chain.__iter__()
 
-print ' '.join(out)
+for i in range(0, length):
+    print chain.next(),
+    
+#print ' '.join(islice(chain, length))
+

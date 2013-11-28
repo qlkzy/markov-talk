@@ -1,0 +1,137 @@
+******_Today's_topic:_Lightning_******
+How dangerous is it, really, to be in a pool during a thunderstorm?
+---Jay Gengelbach
+What would happen if you were taking a shower when you were struck by
+lightning? Or standing under a waterfall?
+---same3chords
+What would happen if you were in a boat or a plane that got hit by lightning?
+Or a submarine?
+---SoobNauce
+What if you were changing the light at the top of a radio tower and lightning
+struck? Or what if you were doing a backflip? Or standing in a graphite field?
+Or looking straight up at the bolt?
+---Danny Wedul
+What would happen if lightning struck a bullet in midair?
+---Timothy Campbell
+What if you were flashing your BIOS during a thunderstorm and you got hit by
+lightning?
+---njsg
+Before we go any further, I want to emphasize something:
+I am not an authority on lightning safety.Â I am a guy who draws pictures on
+the internet. I like when things catch fire and explode, which means I do not
+have your best interests in mind. The authorities on lightning safety are the
+folks at the US National Weather Service:
+http://www.lightningsafety.noaa.gov/
+Ok. With that out of the way ...
+To answer these questions, we need to get an idea of where lightning is likely
+to go. There's a cool trick for this, and I'll give it away right here at
+the start: Roll an imaginary 60-meter sphere across the landscape and look at
+where it touches.
+They say lightning strikes the tallest thing around. That's the kind of
+maddeningly inexact statement that immediately sparks all kinds of questions.
+How far is "around"? I mean, not all lightning hits Mt. Everest. But does
+it find the tallest person in a crowd? The tallest person I know is probably
+Ryan North (paleontologists estimate he stood nearly five meters tall at the
+shoulder). Should I try to hang around him for lightning safety reasons? What
+about other reasons? (This is probably why you people ask the questions on this
+blog, not me.)
+But how doesÂ lightning pick its targets?
+This_video, captured by Tom A. Warner, might be the single coolest piece of
+footage I've ever seen. It shows a bolt of lightning recorded at 7,207 frames
+per second. The 33-second video represents barely a tenth of a second of real
+time. There are lots of slow-motion videos of lightning, but this is by far the
+best I've found.
+Tom's video gives an idea of how lightning moves. It starts with a branching
+bundle of charge---the "leader"---descending from the cloud. This is what
+you see in the first part of the video. It spreads downward at speeds of tens
+to hundreds of kilometers per second, covering the few kilometers to the ground
+in a few dozen milliseconds.
+The leader carries comparatively little current---on the order of 200 amps.
+That's still enough to kill you, but it's nothing compared to what happens
+next. Once the leader makes contact with the ground, the cloud and the ground
+equalize with a massive discharge of more like 20,000 amps. This is the
+blinding flash you see. It races back up the channel at a significant fraction
+of the speed of light, covering the distance in under a millisecond---all
+within a single frame of that video.
+(Technical detail: while it's called a "return stroke", charge is still
+flowing downward. However, the discharge appears to propagate upward. This
+effect similar to how when a traffic light turns green, or whateverÂ color, the
+cars in front start moving, then the cars in back, so the movement appears to
+spread backward.)
+So the place on the ground where we see a bolt "strike" is the spot where
+the leader first makes contact with the surface. The leader moves down through
+the air in little jumps. It's ultimately feeling its way toward the (usually)
+positive charge in the ground. However, it only "feels" charges within a
+few tens of meters of the tip. If there's something connected to the ground
+within that distance, the bolt will jump to it. Otherwise, it jumps out in a
+semi-random direction and repeats the process.
+[/imgs/a/16/lightning_steps.png]
+This is where the 60-meter sphere comes in. It's a way to imagine what spots
+might be the first thing the leader senses---the places it might jump to in its
+next (final) step.
+To figure out where lightning is likely to hit, you roll the imaginary 60-meter
+sphere across the landscape (for safety reasons, do not use a real sphere).
+This sphere climbs up over trees and buildings without passing through anything
+(or rolling it up). Places the surface makes contact---treetops, fenceposts,
+and golfers in fields---are potential lightning targets.
+This means you can calculate a lightning "shadow" around an object of
+height h on a flat surface.
+[/imgs/a/16/lightning_shadow.png]
+The shadow is the area where the leader is likely to hit the tall object
+instead of the ground around it:
+\[\text{Shadow Radius}=\sqrt{-h(h-2r)}\]
+Now, that doesn't mean you're safeÂ on the ground around it---often, it
+means the opposite. After the current hits the tall object, it flows out into
+the ground. If you're touching the ground nearby, it can travel through your
+body. Of the 28 people killed by lightning so far this year, 13_were_standing
+under_or_near_trees.
+With all this in mind, let's look at possible lightning paths for the
+scenarios in the questions.
+How dangerous is it, really, to be in a pool during a thunderstorm?
+Pretty dangerous. Water is conductive, but that's not the biggest
+problem---the biggest problem is that if you're swimming, your head is poking
+up from a large flat surface. But lightning striking the water near you would
+still be bad. The 20,000 amps spread outward---mostly_over_the_surface---but
+how much of a jolt it will give you at what distance is hard to calculate
+My guess is that you'd be in significant danger anywhere within a minimum of
+a dozen meters---and further in fresh water, because the current will be
+happier to take a shortcut through you.
+What would happen if you were taking a shower when you were struck by
+lightning? Or standing under a waterfall?
+[/imgs/a/16/lightning_shower.png]
+You're not in danger from the spray---it's just a bunch of droplets of
+water in the air. It's the tub under your feet, and the puddle of water in
+contact with the plumbing, that's the real threat.
+What would happen if you were in a boat or a plane that got hit by lightning?
+Or a submarine?
+[/imgs/a/16/lightning_boat.png]
+A boat without a cabin is about as safe as a golf course. A boat with a closed
+cabin and a lightning protection system is about as safe as a car. A submarine
+is about as safe as a submarine safe (a submarine safe is not to be confused
+with a safe in a submarine---a safe in a submarine is substantially safer than
+a submarine safe).
+What if you were changing the light at the top of a radio tower and lightning
+struck? Or what if you were doing a backflip? Or standing in a graphite field?
+Or looking straight up at the bolt?
+[/imgs/a/16/lightning_graphite.png]
+What would happen if lightning struck a bullet in midair?
+The bullet won't affect the path the lightning takes. You'd have somehow to
+time the shot so the bullet was in the middle of the bolt when the return
+stroke happened.
+The core of a lightning bolt is a few_centimeters_in_diameter. A bullet fired
+from an AK-47 is about 26 mm long and moves at about 700 millimeters every
+millisecond.
+The bullet has a copper coating over a lead core. Copper is a fantastically
+good conductor of electricity, and much of the 20,000 amps could easily take a
+shortcut through the bullet.
+[/imgs/a/16/lightning_bullet.png]
+Surprisingly, the bullet handles it pretty well. If it were sitting still, the
+current would quickly heat and melt the metal. But it's moving along so
+quickly that it exits the channel before it can be warmed by more than a few
+degrees. It continues on to its target relatively unaffected. There are some
+curious electromagnetic forces created by the magnetic field around the bolt
+and the current flow through the bullet, but none of the ones I examined
+changed the overall picture very much.
+What if you were flashing your BIOS during a thunderstorm and you got hit by
+lightning?
+[/imgs/a/16/lightning_bios.png]

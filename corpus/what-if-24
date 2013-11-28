@@ -1,0 +1,62 @@
+******_Model_Rockets_******
+How many model rocket engines would it take to launch a real rocket into space?
+---Greg Schock, PA
+About 65,000, give or take a few.
+You'd have to arrange them like this:
+[/imgs/a/24/model_suborbital.png]
+The rocket would weigh about as much as a tow truck. There wouldn't be room
+for anything except the engines, aerodynamic shell, and minimal staging
+equipment.
+Each rocket motor would burn for about three seconds. The layer cake
+arrangement means that every three seconds, the bottom layer of spent rockets
+would detaches and the next stage would kick in. It would go through between 25
+and 30 of these stages, burning for a total of a minute and a half, after which
+it would coast upward and just barely brush the edge of space.
+(For this design, I'm assuming something akin to Estes E9-4 engines, which
+are on the large end of the common model rocket engines. There are larger
+ones---the classes go all the way up to O and beyond---but at a certain point,
+they stop being model rocket engines, and just become rocket engines.)
+A 30-stage rocket is, to put it lightly, an engineering nightmare. This design
+assumes the non-engine portion of the vehicle is limited to the weight of a
+person (60 kg). In effect, the spaceship would be a solid block of rocket
+engines. They'd need to be insulated from each other so the upper stages
+didn't ignite prematurely, and the staging and aerodynamics would both be a
+challenge.
+The stack of engines narrows as you go from bottom to top. By the time the top
+stages are firing, the rocket will have shed most of its mass, so it won't
+need as much thrust to get the same acceleration.
+The reason the engine stack bulges in the middle is so that the acceleration
+profile will look like this:
+[/imgs/a/24/model_acceleration.png]
+Rockets work best when their thrust is several times greater than the force of
+gravity. But you don't want to accelerate too quickly while you're low
+down. Air drag increases with the square of your speed, and if you accelerate
+too quickly, you'll find yourself wasting all your fuel just to maintain your
+speed. You want to accelerate slowly at first, then ramp it up as the air
+starts getting thinner.
+[/imgs/a/24/model_space.png]
+Now, as you may have noticed, this rocket will get you into spaceÂ (for a few
+seconds, at least), but not orbit.Â Can you use model rocket engines to dock
+with the ISS?
+No.
+Taking into account atmospheric drag, to get into space, you need a rocket
+capable of accelerating (in a vacuum) to about 2 kilometers per second. To get
+to orbit, you need a rocket capable of accelerating to about 10 kilometers per
+second.
+If you try to produce an orbital rocket using the same design math we used for
+the suborbital rocket, it spits out a description of a pancake-shaped mountain
+of model rocket engines over a mile wide. It would taper to a 10-meter-high
+spire in the center and would weigh about as much as the Great Pyramid.
+[/imgs/a/24/model_pyramid.png]
+Not only would this vehicle never get out of the atmosphere, it would probably
+not stand up under its own weight.
+Frankly, the word "vehicle" is a bit misleading. Essentially, what you've
+created is an unstable pile of gunpowder the size of Central Park. If it went
+up in flames---which it would---it would break the record for the largest
+manmade non-nuclear explosion in history. (Interestingly, the current holder of
+that dubious record is alsoÂ a_rocket_that_exploded_during_launch.)
+The bottom line is that it would be very difficult, but perhaps not impossible,
+to launch something up to the edge of space using model rocket engines.
+However, if you try to build a ship capable of getting to orbit, you will not
+go to space today.
+

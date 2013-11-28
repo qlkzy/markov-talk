@@ -1,0 +1,68 @@
+******_Spent_Fuel_Pool_******
+What if I took a swim in a typical spent nuclear fuel pool? Would I need to
+dive to actually experience a fatal amount of radiation? How long could I stay
+safely at the surface?
+---Jonathan Bastien-Filiatrault
+Assuming you're a reasonably good swimmer, you could probably survive
+treading water anywhere from 10 to 40 hours. At that point, you would black out
+from fatigue and drown. This is also true for a pool without nuclear fuel in
+the bottom.
+Spent fuel from nuclear reactors is highly radioactive. Water is good for both
+radiation shielding and cooling, so fuel is stored at the bottom of pools for a
+couple decades until it's inert enough to be moved into dry casks. We
+haven't really agreed on where to put those dry casks yet. One of these days
+we should probably figure that out.
+Here's the geometry of a typical fuel storage pool:
+[/imgs/a/29/pool_geometry.png]
+The heat wouldn't be a big problem. The water temperature in a fuel pool can in
+theory go as high as 50Â°C, but in practice they're generally between 25Â°C and
+35Â°C---warmer than most pools but cooler than a hot tub.
+For the kinds of radiation coming off spent nuclear fuel, every 7 centimeters
+of water cuts the amount of radiation in half.
+The most highly radioactive fuel rods are those recently removed from a
+reactor. Based on the activity levels provided by Ontario Hydro in this_report,
+this would be the region of danger for fresh fuel rods:
+[/imgs/a/29/pool_danger.png]
+Swimming to the bottom, touching your elbows to a fresh fuel canister, and
+immediately swimming back up would probably be enough to kill you.
+Yet outside the outer boundary, you could swim around as long as you
+wanted---the dose from the core would be less than the normal background dose
+you get walking around. In fact, as long as you were underwater, you would be
+shielded from most of that normal background dose. You may actually receive a
+lower dose of radiation treading water in a spent fuel pool than walking around
+on the street.
+[/imgs/a/29/pool_safe.png]
+That's if everything goes as planned. If there's corrosion in the spent
+fuel rod casings, there may be some fission products in the water. They do a
+pretty good job of keeping the water clean, and it wouldn't hurt you to swim
+in it, but it's radioactive enough that it wouldn't be legal to sell it as
+bottled water. (Which is too bad---it'd make a hell of an energy drink).
+We know spent fuel pools can be safe to swim in because they're routinely
+serviced by human divers.
+However, these divers have to be careful.
+On_August_31st,_2010, a diver was servicing the spent fuel pool at the
+Leibstadt nuclear reactor in Switzerland. He spotted an unidentified length of
+tubing on the bottom of the pool and radioed his supervisor to ask what to do.
+He was told to put it in his tool basket, which he did. Due to bubble noise in
+the pool, he didn't hear his radiation alarm.
+When the tool basket was lifted from the water, the room's radiation alarms
+went off. The basket was dropped back in the water and the diver left the pool.
+The diver's dosimeter badges showed that he'd received a higher-than-normal
+whole-body dose, and the dose in his right hand was extremely high.
+The object turned out to be protective tubing from a radiation monitor in the
+reactor core, made highly radioactive by neutron flux. It had been accidentally
+sheared off while a capsule was being closed in 2006. It sank to a remote
+corner of the pool floor, where it sat unnoticed for four years.
+The tubing was so radioactive that if he'd tucked it into a tool belt or
+shoulder bag, where it sat close to his body, he could've been killed. As it
+was, the water protected him, and only his hand---a body part more resistant to
+radiation than the delicate internal organs---received a heavy dose.
+[/imgs/a/29/pool_diver.png]
+So, as far as swimming safety goes, the bottom line is that you'd probably be
+ok, as long as you didn't dive to the bottom or pick up anything strange.
+But just to be sure, I got in touch with a friend of mine who works at a
+research reactor, and asked him what he thought would happen to you if you
+tried to swim in their radiation containment pool.
+"In ourÂ reactor?" He thought about it for a moment. "You'd die pretty
+quickly, before reaching the water, from gunshot wounds."
+

@@ -1,0 +1,83 @@
+******_Train_Loop_******
+Could a high-speed train run through a vertical loop, like a rollercoaster,
+with the passengers staying comfortable?
+---Gero Walter
+No.
+Since this is kind of a disappointing answer, I tried relaxing the requirements
+a little.
+Could a high-speed train run through a vertical loop, like a rollercoaster,
+with the passengers staying comfortable surviving?
+Still no.
+Could a modified and reinforced high-speed train with a jet engine on top run
+through a vertical loop, like a rollercoaster, with the passengers staying
+comfortable surviving?
+Maybe.
+The Norwegian aluminium and energy company Norsk Hydro ran a_pro-education_ad
+in which a bunch of kids build a giant roller-coaster loop on a train track as
+a prank. This is, of course, unrealistic, but not just for the obvious reasons.
+There are some problems with the whole idea of sending high-speed trains
+through loops.
+The first issue is geometry. The biggest vertical loop which a train could
+conceivably go around has a radius of about 200 meters. If it's any bigger
+than that, even the fastest trains will fail to complete the loop.
+Unfortunately, a 200 meter loop is much too tight. Most high-speed trains are
+limited to vertical curves with radii no shorter than 20 kilometers.
+[/imgs/a/43/train_loop_comparison.png]
+The reason for those limits isn't that trains aren't bendy enough. It's how
+fast they're going.
+The spec sheet for the Bombardier_ZEFIRO, for example, says it can handle a
+pretty tight vertical curve radius---just 900 meters. At the train's top
+speed, that curve would create about two gees of acceleration. This might be
+survivable (for the passengers, at least, if not the train), but it would
+certainly not be comfortable.
+Yet a 900 meter radius loop is still too big. Even with the engine at full
+power, the train wouldn't even be able to get a quarter of the way around the
+loop before sliding back down.
+[/imgs/a/43/train_loop_900.png]
+The CGI train in the Norwegian video is an Di_4, which is shown moving about
+twice as fast as it can actually go. Based on its speed and number of cars, the
+loop appears to have a radius of about 70 meters, which is part of why it's
+shown going so fast---the actual Di 4 would be just a little too slow, and
+would fall off the track at the top. The digital one, however, makes it around
+the loop in about five seconds, no problem.
+But the tight loop means the passengers and train are experiencing between 9
+and 15 gees. This is at the limit of what fighter pilots can handle in pressure
+suits. In addition to killing everyone on board, it would certainly destroy the
+train, to say nothing of the track. 70 meters is much too tight.
+Clearly, we need a larger loop. 900 meters would be great, but our trains
+aren't fast enough for that.\
+But maybe we could make the train go faster ...
+Hmm.
+[/imgs/a/43/train_loop_jet.png]
+Believe it or not, this has been tried before---a number of countries have
+built jet-engine-powered_trains. Sadly, they never took off. Fortunately, they
+never took off.
+A 747 engine mounted atop a bullet train would probably add about 35% to its
+speed. Is that enough to do a 900-meter loop?
+[/imgs/a/43/train_loop_900_747.png]
+Nope.
+Ok, putting the jet engine on top didn't work. Maybe we should try something
+different.
+[/imgs/a/43/train_loop_jet_bottom.png]
+... why did we think that would work? Forget that idea.
+Clearly, we need some combination of a fast train and a medium-sized loop. The
+sweet spot for loop size and shape is probably something like this:
+[/imgs/a/43/train_loop_clothoid.png]
+Of course, given the height, we'd probably have to build it into a small
+mountain:
+[/imgs/a/43/train_loop_mountain.png]
+The shape of the loop, which is common in roller coasters, would spread out the
+g-forces more evenly, resulting in a max of only a few gees---totally
+survivable!
+Of course, the construction costs would be astronomical, and it goes without
+saying that no group of kids could pull it off alone without the resources of a
+major government.
+To any Norwegian kids reading this who were hoping to build a train loop, don't
+despair---there may still be a way to make this happen.
+The US Vice President, Joe Biden, served in the US Senate for 36 years. In all
+that time, he never moved to Washington, DC. Instead, every night, he took the
+train home to Delaware to see his family. This is very touching, but after the
+first few years, I'm sure the commute got a little dull.
+So, if you're looking for a high-level backer to help you make someone's
+train ride a little more exciting, you might just try talking to Joe.
+[/imgs/a/43/train_loop_biden.png]

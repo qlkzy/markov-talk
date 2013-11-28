@@ -1,0 +1,100 @@
+******_Short_Answer_Section_******
+In today's article, I give short answers to several reader questions.
+How long would the Sun last if a giant water hose were focused upon it? My
+sixth grade brother, Adam, asked me this.
+---Austin Dickey
+Your brother might be surprised to learn that the water would actually make the
+Sun hotter!
+[/imgs/a/14/short_answers_sun.png]
+Water is made of hydrogen and oxygen, which is fuel for the Sun's fusion. But
+more importantly, the extra mass also makes the Sun heavier. This crushes it
+together more tightly and makes fusion happen faster. This means it will burn
+more brightly and run through its fuel more quickly.
+As you keep adding water, the Sun will go through a lot of wacky fusion phases.
+(During one phase, called a helium flash, the reaction rate is proportional to
+the 40th power of the temperature---which is probably the largest exponent
+I've ever seen in a physics equation!)
+But one way or another, eventually the whole thing will collapse in on itself,
+blow off its outer layers, and become a black hole. This black hole will keep
+soaking up water, spraying off X-rays in the process, until finally the
+municipal water department notices what you've been doing and shuts off your
+service.
+What if you shined a flashlight (or a laser) into a sphere made of one-way
+mirror glass?
+---Chase Montgomery
+Believe it or not, you've been lied to all your life---there's no such
+thing as one-way mirror glass.
+Glass either lets light through or reflects it, but there's no glass that
+lets light through one way and reflects it the other way. The glass in police
+shows is partially reflective (on both sides). Â The key is that the room on
+the prisoner's side is brightly lit, so the reflection washes out the small
+amount of light from the observers' side.
+[/imgs/a/14/short_answers_oneway.png]
+If Michael Phelps could hold his breath indefinitely, how long would it take
+for him to reach the lowest point in the ocean and back if he swam straight
+down and then straight back up?
+---Jimmy Morey
+He'd most likely black out and die somewhere between 100 and 400 meters.
+[/imgs/a/14/short_answers_phelps.png]
+The human body handles pressure remarkably well. With the right preparation, we
+can survive pressures over a dozen atmospheres. Different body systems break
+down at different depths, but one of the trickiest limits is created by High
+Pressure_Nervous_Syndrome. Below about 100 meters, divers become jittery and
+excitable (especially if the pressure increase is rapid), and at the same time
+begin slipping in and out of sleep. The reason may be direct_pressure_on_the
+brain.
+But let's suppose Michael Phelps were immune to all those things. In that
+case, it simply becomes a question of speed.
+There aren't very many records for underwater swimming, but based on how
+quickly this_guyÂ completed the 50m backstroke, it would probably take Michael
+about ...
+\[ 2\times\text{Depth of Marianas Trench}\times\frac{23.1\textrm{ seconds}}
+{50\textrm{ meters}}\approx3\textrm{ hours} \]
+... to make the trip.
+In the first Superman movie, Superman flies around Earth so fast that it begins
+turning in the opposite direction. This somehow turns back time [... ] How much
+energy would someone flyingÂ around the Earth have to exert in order to reverse
+the Earth's rotation?
+---Aidan Blake
+Someone recently blew my mind by telling me I'd been misinterpreting that
+scene all my life. I like their take on it way better:
+Superman wasn't exerting a force on the Earth. He was just flying fast enough
+to go back in time. (Faster than light, I guess? Comic book physics.) The Earth
+changed direction because we were watching time run backward as he traveled. It
+didn't actually have anything to do with the direction he was flying.
+Now that I see it, it makes a lot more sense. I mean, as much sense as a red-
+cape-and-outside-underwear time traveler can make.
+A discussion of the reversal of the Earth's spin---and what that even
+means---will have to wait for another article.
+How fast would you have to go in your car to run a red light claiming that it
+appeared green to you due to the Doppler Effect?
+---Yitzi Turniansky
+\[ \frac{\text{Red light wavelength}}{\text{Green light wavelength}}=\sqrt
+{\frac{1+\frac{\text{Your speed}}{\text{Speed of light}}}{1-\frac{\text{Car
+speed}}{\text{Speed of light}}}} \]
+\[ \textrm{Car speed}=\frac{\textrm{c}\times\left ( \textrm{Red light
+wavelength}^2-\textrm{Green light wavelength}^2\right )}{\textrm{Green light
+wavelength}^2+\textrm{Red light wavelength}^2}\approx\frac{1}{6}c \]
+What would happen if you opened a portal between Boston (sea level) and Mexico
+City (elev. 8000+ feet)?
+---Jake G.
+Bernoulli's_principleÂ gives us this estimate of the air flow rate:
+\[ \text{Flow rate}=\sqrt{2\times\frac{\text{Sea level pressure}-\text{Mexico
+City pressure}}{\text{Density of air}}}=440\textrm{ mph} \]
+That's fast enough to strip up the pavement from a parking lot. I suggest we
+put it in Kendall Square---the MIT folks are probably used to dealing with this
+kind of thing.
+When my wife and I started dating she invited me over for dinner at one time.
+Her kitchen had something called Bauhaus chairs, which are full of holes,
+approx 5-6 millimeters in diameter in both back and seat. During this lovely
+dinner I was forced to liberate a small portion of wind and was relieved that I
+managed to do so very discretely. Only to find that the chair I sat on
+converted the successful silence into a perfect, and loud, flute note. We were
+both (luckily) amazed and surprised and I have often wondered what the odds are
+for something like that happening. We kept the chairs for five years but
+despite laborious attempts it couldn't be reproduced.
+---R. D.
+This ... isn't actually a question.
+[/imgs/a/14/short_answers_headscratch.png]
+But thank you for sharing!
+

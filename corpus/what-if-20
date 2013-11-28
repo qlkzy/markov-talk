@@ -1,0 +1,128 @@
+******_Diamond_******
+&quot;If a meteor made out of diamond and 100 feet in diameter was traveling at
+the speed of light and hit the earth, what would happen to it?"
+---Aidan Smith, Age 8, via his father Jeff
+Nothing made of matter can go at the speed of light. But that's ok---we can
+get close enough!
+No matter how fast you push something, it will never quite get up to light
+speed. This seems like it can't be right, but it is. Our universe has some
+weird rules. But the closer something gets to the speed of light, the more
+energy and momentum it has---and this energy and momentum go up without limit.
+We'll start slow and work our way up.
+1 kilometer per second:
+If we drop the meteor from the edge of space, 100 kilometers up, it'll punch
+through the atmosphere without slowing down too much and hit the ground moving
+about Mach 3---over a kilometer a second.
+As it falls, it compresses the air in front of it. When the air is compressed,
+it heats it up. (This is the same thing that heats up spacecraft and
+meteors---actual air frictionÂ has little to do with that.) By the time it
+reaches the ground, the lower surface will have heated to over 500â, which is
+enough to glow visibly.
+When it hits the ground, two minutes after it was released, it makes a crater
+300 meters across---the size of a school, shattering into fragments in the
+process.
+[/imgs/a/20/diamond_1.png]
+11 kilometers per second:
+If we set the diamond in space a little ways away from the Earth, and let it
+fall toward us, it will hit at about 11 kilometers per second. This is
+Earth's escape velocity, and anything that hits the Earth from space
+will---thanks to gravity---be going at least that fast.
+At 11 kilometers per second, the brief descent would be visible as a fireball.
+The energy of the impact would be comparable to a small atomic bomb, and the
+crater it would create would be a kilometer across---a little smaller than
+Meteor Crater in Arizona.
+[/imgs/a/20/diamond_11.png]
+72 kilometers per second:
+This is just about the fastest that anything can hit the Earth if it's
+orbiting the Sun. The Leonid meteor shower hits at this speed.
+Oddly, the speed that something is going doesn't really affect how deeply it
+digs into the ground. Isaac Newton came up with a_very_clever_ideaÂ for
+estimating how deeply projectiles will go in their targets before stopping. It
+turns out that no matter how fast a projectile is going, if it hits something
+that's about the same density, it will only go about one body-length in.
+[/imgs/a/20/diamond_momentum.png]
+However, it will make quite a splash. The 72-kilometer-per-second diamond
+sphere blasts out a crater over two kilometers across, with an energy release
+comparable to that of the biggest fusion bombs.
+Here's where things get weird.
+3,000 kilometers per second = 0.01c:
+This would be pretty bad. The thing that makes this a little unpredictable is
+the fact that at speeds in the range of hundreds of kilometers per second, the
+air begins_to_undergo_nuclear_fusionÂ (Google that paper title to find the full
+text). This, combined with plain old plasma heating, may manage to eat apart
+the diamond sphere completely before it reaches the ground.
+But it doesn't do the ground much good. The sphere doesn't spread out
+enough to make a difference, and it still hits the ground in roughly one spot.
+The blast releases a thousand times more energy than the largest nuclear
+weapon, devastating whatever region it came down over. It gouges out a massive
+crater---though not the biggest one Earth has ever seen.
+[/imgs/a/20/diamond_3000.png]
+0.99c:
+This is where relativity kicks in.
+At these speeds, the bonds holding the sphere together are completely
+irrelevant. It's just a collection of carbon atoms moving so fast that
+Lorentz contraction flattens the whole thing into a pancake (although we
+wouldn't_be_able_to_see_that_visually). The SRIMÂ particle physics simulation
+tool can help answer some questions about what happens when it hits.
+The carbon atoms in the ball carry about 70 GeV of energy each. They're
+actually moving too fast to fuse directly with the air---they just pass through
+it completely. The air molecules punch three meters into the face of the ball
+before coming to a rest inside it, and it arrives at the ground with a bunch
+more matter in it than it started with. It's also expanding rapidly.
+When it hits the surface, it disintegrates completely, digging downward and
+outward, carving a cone-shaped path down through the bedrock. The impact depth
+equation no longer applies, since the atoms are literally passing through each
+other.
+The energy cracks a hole in the crust and blows open a crater so big you can
+see the molten mantle. This delivers the energy of 50 dinosaur-killing
+Chicxulub impacts---enough to cause a mass extinction, if not end life
+completely.
+[/imgs/a/20/diamond_99.png]
+I've always thought that one of the the great things about physics is that
+you can add more digits to any numberÂ and see what happens and nobody can stop
+you.
+0.9999999c:
+At this speed, every carbon molecule carries 25 TeV of energy, comparable to
+particles in the beam of the Large Hadron Collider. A little faster, and we
+might spot Higgs bosons in the impact debris.
+As it stands, the whole thing hits the planet with about the kinetic energy of
+the orbiting Moon. It's enough to punch a gaping hole in the mantle and shake
+up the surface across the whole planet, turning it molten. This probably ends
+all life on and around Earth.
+Oops, cat stepped on my keyboard again and I added a bunch more 9s.
+0.9999999999999999999999951c
+The fastest object (with mass) in recorded history might be the Oh-My-God
+particle (no relation to the God particle), a proton from space that plowed
+into the atmosphere over Utah in 1991. It was moving at
+99.99999999999999999999951% of the speed of light, which meant it packed the
+kinetic energy of a baseball---in a single proton. The cascade of particles it
+blasted apart dwarfed anything the LHC could produce.
+Nobody knows how it got to be moving so fast. Particles moving that fast hit
+the Earth a handful of times a year. They seem to come from the general
+direction of exploding galaxies, but what happened to to make them leave in
+such a hurry---and why they haven't slowed down more before they got
+here---is something of a mystery.
+Let's give Aidan's diamond meteor the speed of the Oh My God particle.
+These speeds are so high that my copy of SRIM flatly refuses to simulate them.
+However, we can get some idea from looking at how cosmic rays cascade through
+rock.
+The diamond sweeps out a column of atmosphere without seeming to notice and
+disappears into the crust. A cloud of expanding plasma and radiation grows
+around the entry point as the energy ripples outward through the body of the
+planet. Forty milliseconds later the entire far side expands outward in an
+incandescent cloud.
+The diamond meteor, and the cascade of particles it created as it collided with
+the crust, is spread out throughout the body of our planet. The superheated
+planet glows brighter than the sun.
+The momentum would be enough to knock the Earth into a different orbit---but
+the Earth is no more. The energy deposited is ten thousand times greater than
+the planet's gravitational binding energy, and the planet is blown into an
+expanding cloud of plasma, with a particularly energetic streamer extending
+away from the far side of the impact site, out into space.
+The Sun hiccups and flares as it absorbs waves of dust. The surfaces of Mars
+and Venus are scoured clean by the waves of incredibly high-energy plasma.
+[/imgs/a/20/diamond_alien.png]
+And in the distant future, an alien astronomer on a world hundreds of light-
+years from Earth frowns at a beeping detector, and wonders what violent event
+would make a particle move so fast.
+

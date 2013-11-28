@@ -1,0 +1,50 @@
+******_Ships_******
+How much would the sea level fall if every ship were removed all at once from
+the Earth's waters?
+---Michael Toje
+About six microns---slightly more than the diameter of a strand of spider silk.
+[/imgs/a/33/ships_comparison.png]
+Archimedes' principle tells us that the water displaced by a ship weighs as
+much as the ship itself. If we can figure out the total weight of all the
+world's ships, we can figure out how much water they're displacing, then
+divide that volume by the surface area of the ocean to figure out how much the
+water level would drop.
+Weighing_ships_is_confusing. There are a bunch of different measurements of the
+size of a ship, and many of them, like gross tonnage, are actually measures of
+the volume of the ship's rooms and other internal spaces, not its weight.
+The UN Conference on Trade and Development publishes_estimatesÂ of the size of
+the world shipping fleet.
+What the UNCTD publishes is "deadweight tonnage", which is the maximum
+weight of the ship's fuel, cargo, and crew. What we wantÂ is
+"displacement". Unfortunately, comprehensive numbers for displacement are
+harder to find.
+Fortunately, we can estimate it. Brian Barrass's book Ship Design and
+Performance for Masters and MatesÂ gives a table of ratios of deadweight
+tonnage to displacement for different types of ships.
+Extrapolating from the last few years of UNCTD data, and using the coefficients
+from the book, suggests that the world fleet weighs about 2.15 billion tons
+when fully loaded. The main component of the fleet by weight is oil tankers and
+bulk ore-carrying ships, which make up over two-thirds of the total. (The UNCTD
+data doesn't include small recreational boats or naval fleets. However, based
+on some numbers for naval_fleetsÂ and recreational_boats, neither one
+contributes much to the total.)
+A ton of water is about a cubic meter. 2.15 billion cubic meters divided by the
+surface area of the oceans equals about 6 microns (0.006 mm).
+But you don't have to worry about that six-micron sea level drop. The oceans
+are currently rising at about 3.3 millimeters per year due to global warming
+(through both glacial melting and thermal expansion of seawater).
+At that rate (normalized for seasonal variation and short-term fluctations), if
+you removed every ship from the ocean, the water would be back up to its
+original average level in 16 hours.
+[/imgs/a/33/ships_graph.png]
+Sea levels will likely rise a few feet by the year 2100. Current fish wet
+biomass is about 2_billion_tons, so removing them won't make a dent either.
+(Marine fish biomass dropped_by_80%_over_the_last_century, which---taking into
+consideration the growth rate of the world's shipping fleet---leads to an odd
+conclusion: Sometime in the last few years, we reached a point where there are,
+by weight, more ships in the ocean than fish.)
+And what about the old joke about how much deeper the ocean would be without
+sponges? While estimates of sponge biomass are hard to come by, the answer is
+probably that if you removed all the sponges, sea level would drop by no more
+than a few microns ... and much less if you squeezed them out first.
+[/imgs/a/33/ships_sponges.png]
